@@ -1,6 +1,5 @@
 {
   "name": "LeetCode Environment",
-  "image": "://microsoft.com",
   "customizations": {
     "vscode": {
       "extensions": [
