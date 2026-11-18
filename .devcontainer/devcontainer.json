@@ -7,7 +7,7 @@
         "LeetCode.vscode-leetcode"
       ],
       "settings": {
-        "leetcode.workspaceFolder": "/workspaces/leetcode-solutions",
+        "leetcode.workspaceFolder": "/workspaces/Leetcode-solutions",
         "leetcode.filePath": {
           "default": {
             "folder": "${tag}",
