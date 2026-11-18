@@ -1,0 +1,20 @@
+{
+  "name": "LeetCode Environment",
+  "image": "://microsoft.com",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "LeetCode.vscode-leetcode"
+      ],
+      "settings": {
+        "leetcode.workspaceFolder": "/workspaces/leetcode-solutions",
+        "leetcode.filePath": {
+          "default": {
+            "folder": "${tag}",
+            "filename": "${id}.${kebab-case-name}.${ext}"
+          }
+        }
+      }
+    }
+  }
+}
